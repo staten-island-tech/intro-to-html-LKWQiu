@@ -1,15 +1,19 @@
 body{
     background-color: rgba(51, 50, 50, 0.781);
+/* changes background color */
 
     font-size: 30px;
+/* changes font size */
 }
 li {
     font-size: 20px;
 }
-.list-item {
+.mostusedapps {
     font-size: 40px;
+/* overwrites body */
 }
 #aboutme{
     font-size: 60px;
     background-color: rgb(66, 66, 66);
+/* overwrites list and body */
 }
