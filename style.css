@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(51, 50, 50, 0.781);
+
+    font-size: 30px;
+}
+li {
+    font-size: 20px;
+}
+.list-item {
+    font-size: 40px;
+}
+#aboutme{
+    font-size: 60px;
+    background-color: rgb(66, 66, 66);
+}
