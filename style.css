@@ -1,28 +1,33 @@
-body{
+body {
     background-color: rgba(255, 255, 255, 0.781);
-/* changes background color */
+    /* changes background color */
 
     font-size: 30px;
-/* changes font size */
+    /* changes font size */
 }
+
 li {
     font-size: 20px;
 }
+
 .mostusedapps {
     font-size: 40px;
-/* overwrites body */
+    /* overwrites body */
 }
-#aboutme{
+
+#aboutme {
     font-size: 60px;
     background-color: rgb(93, 90, 90);
-/* overwrites list and body */
+    /* overwrites list and body */
 }
-.bestsnack{
+
+.bestsnack {
     border: 5px outset rgb(0, 0, 0);
     background-color: rgb(56, 51, 51);
     text-align: left;
-/* makes a sperate box */
+    /* makes a sperate box */
 }
-.spantest{
-    color: red ;
+
+.spantest {
+    color: red;
 }
