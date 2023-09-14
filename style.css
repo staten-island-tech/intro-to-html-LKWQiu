@@ -31,3 +31,9 @@ li {
 .spantest {
     color: red;
 }
+
+.title{
+    margin: 60px auto;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 25 px 50 px;
+}
